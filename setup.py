@@ -11,8 +11,8 @@ setuptools.setup(
     description="A package for nepal company registrar",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
-    download_url='',
+    url="https://github.com/sbishnu019/nepal-company-registrar.git",
+    download_url='https://github.com/sbishnu019/nepal-company-registrar/archive/v0.0.1.tar.gz',
     install_requires=[
           'requests',
           'beautifulsoup4',
