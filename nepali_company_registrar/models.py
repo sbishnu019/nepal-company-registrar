@@ -1,4 +1,4 @@
-from datasets import company_type_conversion, share_holder_conversion
+from nepali_company_registrar.datasets import company_type_conversion, share_holder_conversion
 
 
 class CompanyType:

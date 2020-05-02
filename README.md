@@ -4,7 +4,7 @@ Nepal Company Registrar is a Python library for dealing with companies registere
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install nepali-phone-number.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install nepal-company-registrar.
 
 ```bash
 pip install nepal-company-registrar
